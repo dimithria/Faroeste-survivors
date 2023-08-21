@@ -1,7 +1,7 @@
 # Faroeste-survivors
 Este repositório apresenta um prótotipo de um jogo Bullet Hell com inspiração do aclamado jogo Vampire Survivors.
 
-# ilustração
+# Ilustração
 
 ## Menu
 ![image](https://github.com/jcr04/Faroeste-survivors/assets/70778525/a13ca898-3317-4799-9f89-42c7501d7971)
